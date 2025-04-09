@@ -7,3 +7,10 @@ __pycache__/
 *.DS_Store
 envs/
 __archive__/
+face_detection/input_images/
+face_detection/output_images/
+face_landmarker/input_images/
+hand_tracking/images/
+holistic_model/images_pose/
+face_detection/output_data/
+
